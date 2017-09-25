@@ -5,7 +5,7 @@ header {
   align-items: center;
   justify-content: space-between;
   font-family: "Fontdiner Swanky", cursive;
-  font-size: .75em;
+  font-size: 2em;
   height: 350px;
   width: 100%;
   border: 1px solid black;
@@ -17,7 +17,6 @@ header {
       padding-left: 15px; } }
 
 #title {
-  font-size: 3em;
   margin: 0;
   padding: 15px 0;
   text-align: center; }
@@ -98,7 +97,7 @@ main {
   border-radius: 15px;
   transform: rotate(90deg);
   float: right;
-  margin: 0 20px 20px 0; }
+  margin: 15px 20px 30px 0; }
 
 .popUp {
   box-shadow: 10px 10px 28px 0px rgba(0, 0, 0, 0.75);
@@ -149,13 +148,13 @@ button {
 
 #snoblaster {
   top: 15%;
-  left: -100%;
+  left: -200%;
   position: absolute;
   z-index: 20; }
 
 #trailblazer {
   top: 15%;
-  left: -100%;
+  left: -200%;
   position: absolute;
   z-index: 20; }
 
