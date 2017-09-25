@@ -13,7 +13,7 @@ header {
   @media (min-width: 780px) {
     header {
       flex-direction: row;
-      font-size: 1.5em;
+      font-size: 3em;
       padding-left: 15px; } }
 
 #title {
